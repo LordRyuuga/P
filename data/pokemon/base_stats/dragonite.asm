@@ -1,7 +1,7 @@
-	db  91, 134,  95,  80, 100, 100 ; 600 BST
+	db  90, 135,  95,  80, 100, 100 ; 600 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db DRAGON, FLYING ; type
+	db DRAGON, WATER ; type
 	db 45 ; catch rate
 	db 218 ; base exp
 	db NO_ITEM, DRAGON_SCALE ; held items
