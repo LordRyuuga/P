@@ -2,14 +2,14 @@ if DEF(FAITHFUL)
 	db  75,  95,  67,  83, 125,  95 ; 540 BST
 	;   hp  atk  def  spe  sat  sdf
 else
-	db  75,  95,  67,  93, 125,  95 ; 550 BST
+	db  75,  95,  70,  95, 125,  95 ; 555 BST
 	;   hp  atk  def  spe  sat  sdf
 endc
 
 if DEF(FAITHFUL)
 	db FIRE, FIRE ; type
 else
-	db FIRE, FIGHTING ; type
+	db FIRE, POISON ; type
 endc
 	db 30 ; catch rate
 	db 199 ; base exp
