@@ -10,7 +10,7 @@
 if DEF(FAITHFUL)
 	abilities_for ENTEI, PRESSURE, PRESSURE, INNER_FOCUS
 else
-	abilities_for ENTEI, PRESSURE, INNER_FOCUS, FLASH_FIRE
+	abilities_for ENTEI, PRESSURE, FLASH_FIRE, DROUGHT
 endc
 	db GROWTH_SLOW ; growth rate
 	dn EGG_NONE, EGG_NONE ; egg groups
