@@ -2,7 +2,7 @@ if DEF(FAITHFUL)
 	db  80,  82, 100,  80,  83, 100 ; 525 BST
 	;   hp  atk  def  spd  sat  sdf
 else
-	db  80,  80, 100,  80, 115, 100 ; 555 BST
+	db  80,  85, 100,  80, 110, 100 ; 555 BST
 	;   hp  atk  def  spd  sat  sdf
 endc
 
@@ -19,7 +19,7 @@ endc
 if DEF(FAITHFUL)
 	abilities_for MEGANIUM, OVERGROW, OVERGROW, LEAF_GUARD
 else
-	abilities_for MEGANIUM, OVERGROW, NATURAL_CURE, LEAF_GUARD
+	abilities_for MEGANIUM, OVERGROW, NATURAL_CURE, REGENERATOR
 endc
 	db GROWTH_MEDIUM_SLOW ; growth rate
 	dn EGG_MONSTER, EGG_PLANT ; egg groups
