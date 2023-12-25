@@ -1,4 +1,4 @@
-	db  95, 115,  80,  90,  95,  80 ; 555 BST
+	db  95, 125,  85,  90,  80,  80 ; 555 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIRE, ROCK ; type
