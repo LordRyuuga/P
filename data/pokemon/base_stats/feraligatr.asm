@@ -1,10 +1,10 @@
-	db  85, 105, 100,  78,  79,  83 ; 530 BST
+	db  90, 120, 100,  80,  80,  85 ; 555 BST
 	;   hp  atk  def  spe  sat  sdf
 
 if DEF(FAITHFUL)
 	db WATER, WATER ; type
 else
-	db WATER, DARK ; type
+	db WATER, DRAGON ; type
 endc
 	db 45 ; catch rate
 	db 210 ; base exp
