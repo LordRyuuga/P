@@ -1,7 +1,7 @@
-	db  90, 130,  80,  55,  65,  85 ; 505 BST
+	db  90, 135,  90,  60,  55,  95 ; 525 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db FIGHTING, FIGHTING ; type
+	db FIGHTING, STEEL ; type
 	db 45 ; catch rate
 	db 193 ; base exp
 	db NO_ITEM, FOCUS_BAND ; held items
