@@ -1,4 +1,4 @@
-	db 115, 115,  85, 100,  90,  75 ; 580 BST
+	db 120, 120,  85, 100,  100,  75 ; 600 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db FIRE, DRAGON ; type
