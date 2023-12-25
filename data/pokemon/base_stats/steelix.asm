@@ -2,11 +2,11 @@ if DEF(FAITHFUL)
 	db  75,  85, 200,  30,  55,  65 ; 510 BST
 	;   hp  atk  def  spe  sat  sdf
 else
-	db  75,  90, 200,  30,  55,  65 ; 515 BST
+	db  80,  100, 200,  30,  30,  85 ; 525 BST
 	;   hp  atk  def  spe  sat  sdf
 endc
 
-	db STEEL, GROUND ; type
+	db STEEL, DRAGON ; type
 	db 25 ; catch rate
 	db 196 ; base exp
 	db NO_ITEM, METAL_COAT ; held items
