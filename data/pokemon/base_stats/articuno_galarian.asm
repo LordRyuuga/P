@@ -1,7 +1,7 @@
-	db  90,  85,  85,  95, 125, 100 ; 580 BST
+	db  90,  80,  90,  100, 130, 110 ; 600 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db PSYCHIC, FLYING ; type
+	db PSYCHIC, ICE ; type
 	db 3 ; catch rate
 	db 215 ; base exp
 	db ALWAYS_ITEM_2, LUM_BERRY ; held items
