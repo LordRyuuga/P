@@ -1,7 +1,7 @@
 	db  90, 110,  80,  95, 100,  80 ; 555 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db FIRE, FIRE ; type
+	db FIRE, DRAGON ; type
 	db 75 ; catch rate
 	db 213 ; base exp
 	db NO_ITEM, ASPEAR_BERRY ; held items
