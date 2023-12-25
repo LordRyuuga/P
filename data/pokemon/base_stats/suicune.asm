@@ -1,7 +1,7 @@
-	db 100,  75, 115,  85,  90, 115 ; 580 BST
+	db 100,  70, 120,  90,  100, 120 ; 600 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db WATER, WATER ; type
+	db WATER, DRAGON ; type
 	db 3 ; catch rate
 	db 215 ; base exp
 	db ALWAYS_ITEM_2, MYSTIC_WATER ; held items
