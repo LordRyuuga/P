@@ -1,4 +1,4 @@
-	db  80, 115,  65, 130,  60,  75 ; 525 BST
+	db  80, 130,  70, 140,  60,  75 ; 555 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db ROCK, DRAGON ; type
