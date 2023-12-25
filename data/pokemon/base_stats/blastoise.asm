@@ -1,4 +1,4 @@
-	db  79,  83, 100,  78,  85, 105 ; 530 BST
+	db  85,  85, 105,  80,  90, 110 ; 555 BST
 	;   hp  atk  def  spe  sat  sdf
 
 if DEF(FAITHFUL)
@@ -11,7 +11,7 @@ endc
 	db NO_ITEM, NO_ITEM ; held items
 	dn GENDER_F12_5, HATCH_MEDIUM_FAST ; gender ratio, step cycles to hatch
 
-	abilities_for BLASTOISE, TORRENT, RAIN_DISH, MEGA_LAUNCHER
+	abilities_for BLASTOISE, DRIZZLE, RAIN_DISH, MEGA_LAUNCHER
 	db GROWTH_MEDIUM_SLOW ; growth rate
 	dn EGG_MONSTER, EGG_WATER_1 ; egg groups
 
