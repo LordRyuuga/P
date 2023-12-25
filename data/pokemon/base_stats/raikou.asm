@@ -1,7 +1,7 @@
 	db  90,  85,  80, 120, 125, 100 ; 600 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db ELECTRIC, ELECTRIC ; type
+	db ELECTRIC, DRAGON ; type
 	db 3 ; catch rate
 	db 216 ; base exp
 	db ALWAYS_ITEM_2, MAGNET ; held items
