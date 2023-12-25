@@ -1,4 +1,4 @@
-	db  75,  95, 125,  95,  45,  75 ; 510 BST
+	db  90,  100, 130,  100,  25,  80 ; 525 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GROUND, FLYING ; type
