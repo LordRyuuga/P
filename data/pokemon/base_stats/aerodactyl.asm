@@ -1,7 +1,7 @@
-	db  80, 105,  65, 130,  60,  75 ; 515 BST
+	db  80, 115,  65, 130,  60,  75 ; 525 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db ROCK, FLYING ; type
+	db ROCK, DRAGON ; type
 	db 45 ; catch rate
 	db 202 ; base exp
 	db NO_ITEM, NO_ITEM ; held items
