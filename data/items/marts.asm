@@ -194,7 +194,17 @@ GoldenrodHarborMart:
 	db MIRROR_HERB
 	db SILVER_LEAF
 	db GOLD_LEAF
-	db SURF_MAIL
+	db DREAM_BALL
+	db CHERISH_BALL
+	db UP_GRADE
+	db DUBIOUS_DISC
+	db DRAGON_SCALE
+	db METAL_COAT
+	db PROTECTOR
+	db ELECTIRIZER
+	db MAGMARIZER
+	db RAZOR_FANG
+	db RAZOR_CLAW
 	db -1
 
 UndergroundMart:
