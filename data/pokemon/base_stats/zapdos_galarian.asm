@@ -1,7 +1,7 @@
-	db  90, 125,  90, 100,  85,  90 ; 580 BST
+	db  90, 145,  90, 100,  85,  90 ; 600 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db FIGHTING, FLYING ; type
+	db FIGHTING, ELECTRIC ; type
 	db 3 ; catch rate
 	db 216 ; base exp
 	db ALWAYS_ITEM_2, LUM_BERRY ; held items
