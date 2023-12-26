@@ -18,7 +18,7 @@ In the **Cygwin terminal**:
 
 ```bash
 $ git clone https://github.com/LordRyuuga/polished_custom.git
-cd polishedcrystal
+cd polished_custom
 mkdir rgbds
 ```
 
