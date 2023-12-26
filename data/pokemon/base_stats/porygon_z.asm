@@ -1,7 +1,7 @@
-	db  85,  80,  70,  90, 135,  75 ; 535 BST
+	db  85,  70,  75,  100, 145,  80 ; 555 BST
 	;   hp  atk  def  spe  sat  sdf
 
-	db NORMAL, NORMAL ; type
+	db NORMAL, ELECTRIC ; type
 	db 30 ; catch rate
 	db 185 ; base exp
 	db NO_ITEM, DUBIOUS_DISC ; held items
