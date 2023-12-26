@@ -1,4 +1,4 @@
-	db  80,  82,  83,  80, 100, 100 ; 525 BST
+	db  90,  85,  95,  80, 100, 105 ; 555 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db GRASS, POISON ; type
