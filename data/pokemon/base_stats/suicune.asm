@@ -10,7 +10,7 @@
 if DEF(FAITHFUL)
 	abilities_for SUICUNE, PRESSURE, PRESSURE, INNER_FOCUS
 else
-	abilities_for SUICUNE, PRESSURE, INNER_FOCUS, WATER_ABSORB
+	abilities_for SUICUNE, PRESSURE, WATER_ABSORB, DRIZZLE
 endc
 	db GROWTH_SLOW ; growth rate
 	dn EGG_NONE, EGG_NONE ; egg groups
