@@ -17,7 +17,7 @@ In the installer, select the following packages: `git`, `python`, `make`, and `g
 In the **Cygwin terminal**:
 
 ```bash
-git clone https://github.com/katedering/polished_custom.git
+git clone https://github.com/LordRyuuga/polished_custom.git
 cd polished_custom
 mkdir rgbds
 ```
