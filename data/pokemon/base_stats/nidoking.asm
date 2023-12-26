@@ -1,4 +1,4 @@
-	db  81, 102,  77,  85,  85,  75 ; 505 BST
+	db  85, 105,  80,  90,  90,  80 ; 530 BST
 	;   hp  atk  def  spe  sat  sdf
 
 	db POISON, GROUND ; type
