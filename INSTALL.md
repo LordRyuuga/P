@@ -17,7 +17,9 @@ In the installer, select the following packages: `git`, `python`, `make`, and `g
 In the **Cygwin terminal**:
 
 ```bash
-$ git clone https://github.com/LordRyuuga/polished_custom.git cd polished_custom mkdir rgbds
+$ git clone https://github.com/LordRyuuga/polished_custom.git
+cd polishedcrystal
+mkdir rgbds
 ```
 
 Then download [**rgbds**](https://rgbds.gbdev.io/). Get the latest version.
